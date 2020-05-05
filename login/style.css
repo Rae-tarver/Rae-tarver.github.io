@@ -35,9 +35,9 @@ body{
     display: block;
     margin: 20px auto;
     border-radius: 5px;
-    height: 30%;
+    height: 40%;
     padding: 5px;
-    width: 34%;
+    width: 55%;
     border-top: none;
     border-left: 3px solid rgba(88, 87, 7, 0.678);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -46,7 +46,7 @@ body{
 }
 
 .btn{
-    width: 40%;
+    width: 45%;
     border-radius: 50px;
     border: 0px;
     padding: 10px;
@@ -57,8 +57,8 @@ body{
 }
 
 img{
-    width: 30%;
-    height: 40%;
+    width: 58%;
+    height: 44%;
     border-top-left-radius: 9%;
     border-top-right-radius: 9%;
     border-bottom-left-radius: 40%;
